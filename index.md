@@ -1,3 +1,13 @@
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-127091114-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-127091114-1');
+</script>
+
 # youtube-dl-helper
 
 youtube-dl-helper is a tool for Windows that can download video or audio from [many streaming sites](https://rg3.github.io/youtube-dl/supportedsites.html) without requiring you to use the command-line.
