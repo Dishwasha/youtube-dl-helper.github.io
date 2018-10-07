@@ -32,7 +32,7 @@ This tool is just a few very simple batch files that use [youtube-dl](http://rg3
 
 * Requires the use of the command-line
 * Can require additional software (FFmpeg, RTMPDump, Microsoft Visual C++ 2010 Redistributable Package)
-* Names the files with the content ID appended to the title
+* Names downloaded files with the content ID appended to the title
 * Saves videos from YouTube in various formats instead of only MP4
 
 You may prefer to use [youtube-dl-gui](https://mrs0m30n3.github.io/youtube-dl-gui/).
