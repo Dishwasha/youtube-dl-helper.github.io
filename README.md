@@ -1,6 +1,6 @@
 # youtube-dl-helper
 
-youtube-dl-helper is a tool for Windows that can download video or audio from [many streaming sites](https://rg3.github.io/youtube-dl/supportedsites.html) without requiring you to use the command-line.
+youtube-dl-helper is a tool for Windows that can download video or audio from [many sites](https://rg3.github.io/youtube-dl/supportedsites.html) without requiring you to use the command-line.
 
 ### If you have any problems or suggestions, send me an email: **mesdartin@gmail.com**
 
