@@ -8,6 +8,8 @@ youtube-dl-helper is a tool for Windows that can download video or audio from [m
 
 * Download [youtube-dl-helper.zip](https://github.com/youtube-dl-helper/youtube-dl-helper.github.io/releases/download/v0.1/youtube-dl-helper.zip) and extract it anywhere on your computer that doesn't require administrator permission to write to (for example, the desktop or downloads folder are OK, but not the Program Files folder) and open the **youtube-dl-helper** folder.
 
+![](folder.png)
+
 * Double-click on **download.txt** to open it in Notepad and paste in the URLs of the pages containing the video or audio you want to download. You can put multiple URLs on separate lines. Save the file with **Ctrl + S** or by clicking **File > Save**.
 
 ![](notepad.png)
