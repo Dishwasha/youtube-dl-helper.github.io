@@ -18,11 +18,13 @@ youtube-dl-helper is a tool for Windows that can download video or audio from [m
 
 ![](finished.png)
 
-## Downloading audio
+## More options
 
-* To download the audio of your URLs as MP3 files, open the **more** folder and run **mp3.bat** instead of **run.bat** (this will re-encode the audio to MP3 once it is downloaded).
+* To download the audio of your URLs as MP3 files, open the **more** folder and run **mp3.bat** instead of **run.bat** (this will re-encode the audio to MP3 once it has been downloaded).
 
 * To download audio in the best quality available without re-encoding to MP3, run **audio.bat** in the **more** folder.
+
+* To download video in the best quality available (which may not be MP4), run **best.bat** in the **more** folder (this can be used to download 4K videos from YouTube).
 
 ## About this project
 
