@@ -24,10 +24,6 @@ youtube-dl-helper is a tool for Windows that can download video or audio from [m
 
 * To download audio in the best quality available without re-encoding to MP3, run **audio.bat** in the **more** folder.
 
-## Not working?
-
-* If things stop working you may need to update youtube-dl, which you can do by running **update.bat** in the **more** folder.
-
 ## About this project
 
 This tool is just a few very simple batch files that use [youtube-dl](http://rg3.github.io/youtube-dl/). The reason why you might want to use this instead of using youtube-dl directly is because youtube-dl by default...
@@ -35,6 +31,7 @@ This tool is just a few very simple batch files that use [youtube-dl](http://rg3
 * Requires the use of the command-line
 * Can require additional software (FFmpeg, RTMPDump, Microsoft Visual C++ 2010 Redistributable Package)
 * Names downloaded files with the content ID appended to the title
-* Saves videos from YouTube in various formats instead of only MP4
+* Downloads videos from YouTube in various formats instead of only MP4
+* Doesn't update automatically
 
 You may prefer to use [youtube-dl-gui](https://mrs0m30n3.github.io/youtube-dl-gui/).
