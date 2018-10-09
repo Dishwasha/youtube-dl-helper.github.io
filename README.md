@@ -14,7 +14,7 @@ youtube-dl-helper is a tool for Windows that can download video or audio from [m
 
 ![](notepad.png)
 
-* Double-click on **run.bat**. A command-line window will open, showing the status of the downloading files. Once it has finished and the last line shows *"Press any key to continue"* you can close the window. The downloaded files will be in the **downloaded** folder.
+* Double-click on **run.bat**. A command-line window will open, showing the status of the downloading files. The downloaded files will be in the **downloaded** folder.
 
 ![](finished.png)
 
